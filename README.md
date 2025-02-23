@@ -1,4 +1,4 @@
-# project_management_tool
+# Project Management Tool
 
 ## Overview
 The Project Management Tool with React and Express is a comprehensive project management tool designed to streamline project planning, execution, and monitoring. Built using the MERN stack, this tool leverages modern web technologies to provide a robust, scalable, and user-friendly platform for managing projects of any size.
