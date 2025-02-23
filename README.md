@@ -32,7 +32,7 @@ Ensure you have the following installed:
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/project-management-tool.git
+   git clone https://github.com/snehavarmak/project-management-tool.git
    ```
 2. Navigate to the project directory:
    ```sh
